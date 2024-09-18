@@ -2,11 +2,11 @@ import { Title } from "./Title"
 
 export const VotreRestaurant = ()=>{
      return (
-          <div>
+          <div id="apropos">
                <Title classname="text-center">
                     Votre restaurant
                </Title>
-               <div className="flex items-center justify-between my-5 container mx-auto">
+               <div className="flex items-center justify-between my-5 container mx-auto" >
                     <p className="leading-loose text-center ">
                               Chez Kintenin, nous vous invitons à vivre une expérience culinaire unique où tradition et modernité se rencontrent.
 

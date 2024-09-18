@@ -7,7 +7,7 @@ import { VotreRestaurant } from "./VotreRestaurant"
 
 export const Body = ()=>{
      return (
-          <section className="pt-16">
+          <section className="pt-20">
                <VotreRestaurant />
                <Menus />
                <Commande />

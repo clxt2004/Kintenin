@@ -11,8 +11,8 @@ export const Footer = ()=>{
                </div>
                <div className="flex items-center flex-col  gap-2 text-base">
                     <a href="" className="font-bold text-orange-500">Acceuil</a>
-                    <a href="" className="font-bold text-orange-500">A propos</a>
-                    <a href="" className="font-bold text-orange-500">Contact</a>
+                    <a href="#apropos" className="font-bold text-orange-500">A propos</a>
+                    <a href="#contact" className="font-bold text-orange-500">Contact</a>
                </div>
                </div>
                <p className="text-white text-center">&copy; {new Date().getFullYear()} Mon Site Web. Tous droits réservés.</p>
