@@ -8,7 +8,7 @@ export const MainTitle = ()=>{
                          KinTenin
                     </h1>
                     <p className="w-1/12 left-1/3 ml-10 relative md:left-28">
-                         <img className="w-full min-w-24" src="../../public/chef-hat-svgrepo-com.svg" alt="" />
+                         <img className="w-full min-w-24" src="/chef-hat-svgrepo-com.svg" alt="" />
                     </p>
                     <h2 className="md:ml-20 text-center md:text-start  text-4xl md:text-5xl font-bold italic">
                          VOTRE RESTAURANT FAVORIS

@@ -14,7 +14,7 @@ export const VotreRestaurant = ()=>{
 
                               Nos chefs talentueux s'efforcent de créer des mets authentiques tout en y apportant une touche créative, mettant à l'honneur le meilleur de chaque ingrédient. Laissez-vous séduire par notre carte variée et nos spécialités, préparées avec soin et passion.
                     </p>
-                    <img className="hidden w-1/2  md:block" src="../../public/34907-removebg-preview.png" alt="" />
+                    <img className="hidden w-1/2  md:block" src="/34907-removebg-preview.png" alt="" />
                </div>
           </div>
      )
